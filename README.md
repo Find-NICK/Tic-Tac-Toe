@@ -1,5 +1,7 @@
-# Tic-Tac-Toe-ON-YOUR-README-MD-
+# Tic-Tac-Toe-ON-YOUR-README-MD
 WOW!
+
+
 <a name="top"></a>
 I challenge you to a game of Tic-Tac-Toe. 
 Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
